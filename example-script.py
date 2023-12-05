@@ -1,1 +1,1 @@
-print ('Hello Esri Nice to see you today')
+print ('Hello Esri')
